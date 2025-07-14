@@ -6,7 +6,7 @@
 
 Ce projet propose une **application web** basée sur **Streamlit** permettant de prédire le prix d'une voiture à partir de ses caractéristiques techniques. L'utilisateur renseigne les attributs du véhicule (dimensions, poids, taille du moteur, consommation, etc.) via une interface conviviale, puis l'application utilise un modèle de machine learning pré-entraîné pour estimer le prix en dollars.
 
-L'objectif est de rendre la prédiction de modèles ML accessible à tous, sans connaissances en programmation, grâce à une interface simple et rapide à déployer[2][4].
+L'objectif est de rendre la prédiction de modèles ML accessible à tous, sans connaissances en programmation, grâce à une interface simple et rapide à déployer.
 
 ## Fonctionnalités
 
