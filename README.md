@@ -25,24 +25,6 @@ L'objectif est de rendre la prédiction de modèles ML accessible à tous, sans 
 - `joblib`
 - Modèle ML exporté sous le nom `final_model.joblib`
 
-### Installation des dépendances
 
-```bash
-pip install streamlit numpy joblib
-```
 
-### Lancement de l'application
 
-```bash
-streamlit run app.py
-```
-
-## Utilisation
-
-1. Lancez l'application avec la commande ci-dessus.
-2. Renseignez les caractéristiques de la voiture dans les champs proposés.
-3. Cliquez sur **Predict** pour obtenir une estimation du prix.
-
-## Auteur
-
-- Kriscillia
